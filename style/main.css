@@ -60,8 +60,10 @@ color:#fff;
 
 }
 
-.title{
+.filme-principal .title{
+    margin-top: 15%;
     font-size: 40px;
+    font-family: 'Trebuchet MS', Arial, sans-serif;
 }
 
 .botao{
