@@ -56,6 +56,7 @@ color:#fff;
 }
 
 .filme-principal .descricao{
+    margin-top: 10px;
     margin-bottom: 40px;
 
 }
@@ -73,4 +74,12 @@ color:#fff;
     padding:15px 30px;
     margin-right: 15px;
     font-size: 12px;
+
+    cursor: pointer;
+    transition: .8s ease all;
+}
+
+.botao:hover{
+    background-color: white;
+    color: black;
 }
