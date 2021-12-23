@@ -12,7 +12,7 @@
 /*Elemento Base*/
 body{
     background:var(--preta);
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Arial Black', Times, serif;
     color: white;
    
 }
@@ -101,3 +101,7 @@ margin-right: 8px;
     width: 100%;
     display: block;
 }
+
+.carrosel-filmes{
+    margin-top: 5px;
+    }
